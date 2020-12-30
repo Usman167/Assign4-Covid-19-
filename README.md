@@ -1,1 +1,1 @@
-COVID-19 tracking application made on React Native. It uses three screens made on drawer navigation. `App.js` is the main render file. Not highly functional just basic knowledge. 
+This App is used for tracking the the confirmed cases of corona world wide and countrywise. it consist of three screens countryscreen,fav and world screen. these screens made on drawer nevigation. its just basic simple static app.  
